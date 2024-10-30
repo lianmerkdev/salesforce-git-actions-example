@@ -7,6 +7,8 @@
     <aura:attribute name="center" type="Aura.Component[]" access="global" />
     <aura:attribute name="right" type="Aura.Component[]" access="global" />
 
+    <!-- test -->
+
     <div aura:id="container">
         <lightning:layout>
             <lightning:layoutItem aura:id="leftColumn" size="2">
